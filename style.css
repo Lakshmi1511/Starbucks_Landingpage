@@ -123,6 +123,21 @@ body{
     background-color: #adadad;
     margin-top: -57px;
 }
+.product-tag{
+    color: #096;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 9px;
+    background: #E6EDEB;
+    border-radius: 4px;
+    padding: 2px 4px;
+    letter-spacing: .06em;
+    position: absolute;
+    width: 79px;
+    height: 17px;
+    margin-left: 34px;
+    margin-top: 20px;
+    font-weight: 600;
+}
 .coffeecontent{
     margin-left: 134px;
     height: 30px;
